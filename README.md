@@ -1,16 +1,81 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PiolinPixel</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #00ff00;
+      font-family: "Courier New", Courier, monospace;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #003366;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #00ff00;
+    }
+    nav {
+      background-color: #001f33;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #00ccff;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .file-list {
+      margin-top: 20px;
+    }
+    .file-item {
+      background-color: #1a1a1a;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+    .file-item a {
+      color: #00ccff;
+      text-decoration: none;
+    }
+    footer {
+      background-color: #003366;
+      text-align: center;
+      color: #00ff00;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
 
-<!--
-**PiolinPixel/PiolinPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+  <h1>PiolinPixel</h1>
+</header>
 
-Here are some ideas to get you started:
+<nav>
+  <a href="#inicio">Inicio</a>
+  <a href="#descargas">Descargas</a>
+  <a href="#contacto">Contacto</a>
+</nav>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section id="inicio">
+  <h2>Bienvenido</h2>
+  <p>En PiolinPixel encontrarás soluciones, programas útiles y descargas gratuitas para mejorar tu experiencia tecnológica.</p>
+</section>
+
+<section id="descargas">
+  <h2>Zona de Descargas</h2>
+  <div class="file-list">
+    <div class="file-item">
+      <a href="archivos/programa1.zip" download>Descargar Antivirus Portable</
