@@ -78,4 +78,16 @@
   <h2>Zona de Descargas</h2>
   <div class="file-list">
     <div class="file-item">
-      <a href="archivos/programa1.zip" download>Descargar https://www.youtube.com/watch?v=MI9ZpIKgyf0&list=RDMMMI9ZpIKgyf0&start_radio=1</
+      <html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlace en HTML</title>
+</head>
+<body>
+
+
+    <a href="https://www.google.com" target="_blank">Ir a Google</a>
+
+</body>
+</html>
