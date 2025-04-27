@@ -87,7 +87,8 @@
 <body>
 
 
-    <a href="https://www.google.com" target="_blank">Ir a Google</a>
+    <p>Haz clic en el siguiente enlace para ir a YouTube:</p>
+    <a href="https://www.youtube.com/watch?v=MI9ZpIKgyf0">Ir a YouTube</a>
 
 </body>
 </html>
