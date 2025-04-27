@@ -1,0 +1,6 @@
+/MiSitio
+   |-- index.html
+   |-- /archivos
+         |-- programa1.zip
+         |-- manual_reparacion.pdf
+         |-- optimizador.exe
