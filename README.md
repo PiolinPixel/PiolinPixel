@@ -87,8 +87,8 @@
 <body>
 
 
-    <p>Haz clic en el siguiente enlace para ir a YouTube:</p>
-    <a href="https://www.youtube.com/watch?v=MI9ZpIKgyf0">Ir a YouTube</a>
+    <p>Haz clic en el siguiente enlace para ir a descargar el archivo de Ondemand 3D:</p>
+    <a href="https://drive.google.com/uc?export=download&id=1lmr3E09fIWLdtKAoleKRkC8qbpQ692HP">Descargar</a>
 
 </body>
 </html>
